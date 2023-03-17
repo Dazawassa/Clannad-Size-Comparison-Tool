@@ -1,0 +1,6 @@
+.Class_Selector{
+    /*Aligns the images next to each other.*/
+    float:left;
+    /*Not sure why this worked but it stopped the second image form being below the first one if it was larger.*/
+    width: 45%;
+}
